@@ -1,3 +1,16 @@
+Metadata-Version: 2.4
+Name: custom-cnn
+Version: 0.1.0
+Summary: Custom CNN on CIFAR-10 using Keras (from a notebook to a Python package)
+Author: Your Name
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: tensorflow>=2.10
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: opencv-python
+
 # custom-CNN
 
 Converted from a Jupyter notebook into a full Python project.

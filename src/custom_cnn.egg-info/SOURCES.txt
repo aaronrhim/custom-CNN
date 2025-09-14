@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/custom_cnn/__init__.py
+src/custom_cnn/cli.py
+src/custom_cnn/data.py
+src/custom_cnn/evaluation.py
+src/custom_cnn/model.py
+src/custom_cnn/training.py
+src/custom_cnn.egg-info/PKG-INFO
+src/custom_cnn.egg-info/SOURCES.txt
+src/custom_cnn.egg-info/dependency_links.txt
+src/custom_cnn.egg-info/entry_points.txt
+src/custom_cnn.egg-info/requires.txt
+src/custom_cnn.egg-info/top_level.txt

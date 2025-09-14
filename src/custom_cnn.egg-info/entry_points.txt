@@ -1,0 +1,2 @@
+[console_scripts]
+custom-cnn = custom_cnn.cli:main
